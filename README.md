@@ -12,6 +12,10 @@ Soy un Desarrollador Web Full Stack con una pasión por la tecnología, la progr
    -Proyecto Final Henry: Desarrollo de una aplicación web e-commerce de videojuegos en formato digital, con responsabilidad en el backend y frontend utilizando tecnologías como Node, Express, React.js, CSS y Firebase.
 Proyecto Individual Henry: Aplicación web con consumo de API REST pública, servidor en Node.js, base de datos en Postgres y frontend en React y Redux.
 
+ - Universidad Abierta y a Distancia de México - UnADM
+  (Enero 2018 - Mayo 2020) Duracion: 3 semestres
+   -Capacidad de adaptación al auto-aprendizaje, iniciativa para la investigación, habilidad para la comunicación efectiva y el trabajo colaborativo, organización y alto sentido de compromiso, desarrollar soluciones de software a partir de la creación y diseño de nuevos sistemas, planear, diseñar, evaluar soluciones innovadoras para aplicaciones de la Tecnología de Información de software, manejo de información e implementación de nuevas tecnologías, con alto nivel de cumplimiento de los estándares de calidad,  lenguajes especializados HTML, PHP, XML; así como elaborar manuales operativos y especificaciones técnicas y el correspondiente mantenimiento de los sistemas. 
+
 ## Habilidades
 
 -JavaScript
