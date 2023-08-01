@@ -18,31 +18,31 @@ Soy un Desarrollador Web Full Stack con una pasión por la tecnología, la progr
 
 ## Habilidades
 
--JavaScript
--CSS
--HTML
--React
--Redux
--Node
--Sequelize
--Express
--Postgres
--C# en Unity (por hobby)
--Kotlin en Android Studio (por hobby)
+- JavaScript
+- CSS
+- HTML
+- React
+- Redux
+- Node
+- Sequelize
+- Express
+- Postgres
+- C# en Unity (por hobby)
+- Kotlin en Android Studio (por hobby)
 
 ## Proyectos Personales
 
--Trivialix (App Android): Juego de preguntas de cultura general desarrollado en Kotlin con consumo de datos de Firebase.
--Juegos 2D en Unity: Creación de juegos 2D con dinámicas similares a juegos populares.
+- Trivialix (App Android): Juego de preguntas de cultura general desarrollado en Kotlin con consumo de datos de Firebase.
+- Juegos 2D en Unity: Creación de juegos 2D con dinámicas similares a juegos populares.
 
 ## Intereses Profesionales
 
--Mi enfoque profesional se centra en el desarrollo de aplicaciones web, móviles y mi atracción por el desarrollo de videojuegos.
+- Mi enfoque profesional se centra en el desarrollo de aplicaciones web, móviles y mi atracción por el desarrollo de videojuegos.
 
 ## Contacto
 
--Correo electrónico: sckarlet015@gmail.com
--LinkedIn: https://www.linkedin.com/in/eric-ramirez-744b02124/
--GitHub: https://github.com/sckarlet015
+- Correo electrónico: sckarlet015@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eric-ramirez-744b02124/
+- GitHub: https://github.com/sckarlet015
 
 ¡Siempre abierto a nuevas oportunidades y desafíos! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en proyectos interesantes.
