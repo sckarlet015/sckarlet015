@@ -6,11 +6,11 @@ Soy un Desarrollador Web Full Stack con una pasión por la tecnología, la progr
 ## Educación
 
  - Bootcamp de Desarrollo de Software Full Stack - Henry
-   (Fecha de inicio - Fecha de finalización)
+   (Fecha de inicio - Fecha de finalización) Duracion: 8 meses
    - Programa intensivo de 8 meses en desarrollo web full stack, con enfoque en JavaScript, React, Redux, Node, Sequelize, Express, HTML, CSS y más.
  - Proyectos destacados:
    - Proyecto Final Henry: Desarrollo de una aplicación web e-commerce de videojuegos en formato digital, con responsabilidad en el backend y frontend utilizando tecnologías como Node, Express, React.js, CSS y Firebase.
-Proyecto Individual Henry: Aplicación web con consumo de API REST pública, servidor en Node.js, base de datos en Postgres y frontend en React y Redux.
+   - Proyecto Individual Henry: Aplicación web con consumo de API REST pública, servidor en Node.js, base de datos en Postgres y frontend en React y Redux.
 
  - Universidad Abierta y a Distancia de México - UnADM
     (Enero 2018 - Mayo 2020) Duracion: 3 semestres
